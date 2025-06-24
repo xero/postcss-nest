@@ -277,8 +277,6 @@ a {
 **CC0 1.0 Universal (Public Domain Dedication)**
 You can use this for any purpose, commercial or non-commercial, with or without attribution.
 
----
-
 [npm-url]: https://www.npmjs.com/package/postcss-nest
 [DRY CSS]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [PostCSS]: https://github.com/postcss/postcss
