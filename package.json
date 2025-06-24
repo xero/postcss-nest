@@ -1,6 +1,6 @@
 {
   "name": "@xero/postcss-nest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PostCss plugin for Property-level factoring, block-level merging, and nesting of pseudo-classes/elements producing beautiful, modern, minimal, maintainable, DRY CSS",
   "author": "xero",
   "license": "CC0-1.0",
