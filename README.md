@@ -1,7 +1,6 @@
 # postcss-nest [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">][PostCSS]
 
-> [!QUOTE]
-> "the opposite of every other css nesting plugin"
+> ## _"the opposite of every other css nesting plugin!"_
 
 [<img alt="npm version" src="https://img.shields.io/npm/v/postcss-nest.svg" height="20">][npm-url]
 
@@ -281,5 +280,5 @@ You can use this for any purpose, commercial or non-commercial, with or without 
 ---
 
 [npm-url]: https://www.npmjs.com/package/postcss-nest
-[DRY-CSS]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+[DRY CSS]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [PostCSS]: https://github.com/postcss/postcss
