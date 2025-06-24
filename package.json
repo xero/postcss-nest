@@ -1,0 +1,34 @@
+{
+  "name": "postcss-nest",
+  "version": "1.0.0",
+  "description": "Property-level factoring, block-level merging, and nesting of pseudo-classes/elements producing beautiful, modern, minimal, maintainable, DRY CSS.",
+  "type": "module",
+	"types": "postcss-nest.d.ts",
+  "main": "postcss-nest.js",
+  "module": "postcss-nest.js",
+  "exports": {
+    "import": "./postcss-nest.js",
+    "require": "./postcss-nest.js"
+  },
+  "homepage": "https://github.com/xero/postcss-nest",
+  "license": "CC0-1.0",
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "nesting",
+    "css",
+    "scss",
+    "sass",
+    "nest",
+    "nested",
+    "merge",
+    "refactor",
+    "optimizer",
+    "css-tools",
+    "css-optimizer",
+    "dry"
+  ],
+  "dependencies": {
+    "postcss": "^8.5.6"
+  }
+}
