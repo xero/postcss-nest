@@ -1,6 +1,6 @@
 {
   "name": "postcss-nest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Property-level factoring, block-level merging, and nesting of pseudo-classes/elements producing beautiful, modern, minimal, maintainable, DRY CSS.",
   "type": "module",
 	"types": "postcss-nest.d.ts",
